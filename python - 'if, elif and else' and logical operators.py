@@ -1,4 +1,4 @@
-# if statements = s block of codes that will get executed if it's condition is true
+# if statements = a block of codes that will get executed if its condition is true
 age = int(input("How old are you?: "))
 
 if age == 100:
